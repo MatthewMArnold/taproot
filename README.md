@@ -1,3 +1,7 @@
+# Important Open Source Award Information
+
+**Please refer to the [wiki](https://github.com/MatthewMArnold/taproot/wiki) for the relevant RoboMaster open source award infomration.**
+
 [![pipeline status](https://gitlab.com/aruw/controls/taproot/badges/develop/pipeline.svg)](https://gitlab.com/aruw/controls/taproot/-/commits/develop)
 [![coverage report](https://gitlab.com/aruw/controls/taproot/badges/develop/coverage.svg)](https://gitlab.com/aruw/controls/taproot/-/commits/develop)
 [![discord invite](https://discord.com/api/guilds/856735962663223306/widget.png)](https://discord.gg/jjDrGhrjMy)
